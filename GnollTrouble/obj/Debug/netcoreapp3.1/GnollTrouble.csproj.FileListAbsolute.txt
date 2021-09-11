@@ -1,0 +1,14 @@
+C:\Users\Noah\Documents\Dev\code_club\GnollTrouble\bin\Debug\netcoreapp3.1\GnollTrouble.exe
+C:\Users\Noah\Documents\Dev\code_club\GnollTrouble\bin\Debug\netcoreapp3.1\GnollTrouble.deps.json
+C:\Users\Noah\Documents\Dev\code_club\GnollTrouble\bin\Debug\netcoreapp3.1\GnollTrouble.runtimeconfig.json
+C:\Users\Noah\Documents\Dev\code_club\GnollTrouble\bin\Debug\netcoreapp3.1\GnollTrouble.runtimeconfig.dev.json
+C:\Users\Noah\Documents\Dev\code_club\GnollTrouble\bin\Debug\netcoreapp3.1\GnollTrouble.dll
+C:\Users\Noah\Documents\Dev\code_club\GnollTrouble\bin\Debug\netcoreapp3.1\GnollTrouble.pdb
+C:\Users\Noah\Documents\Dev\code_club\GnollTrouble\obj\Debug\netcoreapp3.1\GnollTrouble.csproj.AssemblyReference.cache
+C:\Users\Noah\Documents\Dev\code_club\GnollTrouble\obj\Debug\netcoreapp3.1\GnollTrouble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noah\Documents\Dev\code_club\GnollTrouble\obj\Debug\netcoreapp3.1\GnollTrouble.AssemblyInfoInputs.cache
+C:\Users\Noah\Documents\Dev\code_club\GnollTrouble\obj\Debug\netcoreapp3.1\GnollTrouble.AssemblyInfo.cs
+C:\Users\Noah\Documents\Dev\code_club\GnollTrouble\obj\Debug\netcoreapp3.1\GnollTrouble.csproj.CoreCompileInputs.cache
+C:\Users\Noah\Documents\Dev\code_club\GnollTrouble\obj\Debug\netcoreapp3.1\GnollTrouble.dll
+C:\Users\Noah\Documents\Dev\code_club\GnollTrouble\obj\Debug\netcoreapp3.1\GnollTrouble.pdb
+C:\Users\Noah\Documents\Dev\code_club\GnollTrouble\obj\Debug\netcoreapp3.1\GnollTrouble.genruntimeconfig.cache

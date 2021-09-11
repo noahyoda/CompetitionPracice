@@ -1,0 +1,16 @@
+C:\Users\Noah\Documents\Dev\code_club\contestStruggles\obj\Debug\net5.0\contestStruggles.csproj.AssemblyReference.cache
+C:\Users\Noah\Documents\Dev\code_club\contestStruggles\obj\Debug\net5.0\contestStruggles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noah\Documents\Dev\code_club\contestStruggles\obj\Debug\net5.0\contestStruggles.AssemblyInfoInputs.cache
+C:\Users\Noah\Documents\Dev\code_club\contestStruggles\obj\Debug\net5.0\contestStruggles.AssemblyInfo.cs
+C:\Users\Noah\Documents\Dev\code_club\contestStruggles\obj\Debug\net5.0\contestStruggles.csproj.CoreCompileInputs.cache
+C:\Users\Noah\Documents\Dev\code_club\contestStruggles\bin\Debug\net5.0\contestStruggles.exe
+C:\Users\Noah\Documents\Dev\code_club\contestStruggles\bin\Debug\net5.0\contestStruggles.deps.json
+C:\Users\Noah\Documents\Dev\code_club\contestStruggles\bin\Debug\net5.0\contestStruggles.runtimeconfig.json
+C:\Users\Noah\Documents\Dev\code_club\contestStruggles\bin\Debug\net5.0\contestStruggles.runtimeconfig.dev.json
+C:\Users\Noah\Documents\Dev\code_club\contestStruggles\bin\Debug\net5.0\contestStruggles.dll
+C:\Users\Noah\Documents\Dev\code_club\contestStruggles\bin\Debug\net5.0\ref\contestStruggles.dll
+C:\Users\Noah\Documents\Dev\code_club\contestStruggles\bin\Debug\net5.0\contestStruggles.pdb
+C:\Users\Noah\Documents\Dev\code_club\contestStruggles\obj\Debug\net5.0\contestStruggles.dll
+C:\Users\Noah\Documents\Dev\code_club\contestStruggles\obj\Debug\net5.0\ref\contestStruggles.dll
+C:\Users\Noah\Documents\Dev\code_club\contestStruggles\obj\Debug\net5.0\contestStruggles.pdb
+C:\Users\Noah\Documents\Dev\code_club\contestStruggles\obj\Debug\net5.0\contestStruggles.genruntimeconfig.cache

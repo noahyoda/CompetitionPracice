@@ -1,0 +1,14 @@
+C:\Users\Noah\Documents\Dev\code_club\CanvasLine\bin\Debug\netcoreapp3.1\CanvasLine.exe
+C:\Users\Noah\Documents\Dev\code_club\CanvasLine\bin\Debug\netcoreapp3.1\CanvasLine.deps.json
+C:\Users\Noah\Documents\Dev\code_club\CanvasLine\bin\Debug\netcoreapp3.1\CanvasLine.runtimeconfig.json
+C:\Users\Noah\Documents\Dev\code_club\CanvasLine\bin\Debug\netcoreapp3.1\CanvasLine.runtimeconfig.dev.json
+C:\Users\Noah\Documents\Dev\code_club\CanvasLine\bin\Debug\netcoreapp3.1\CanvasLine.dll
+C:\Users\Noah\Documents\Dev\code_club\CanvasLine\bin\Debug\netcoreapp3.1\CanvasLine.pdb
+C:\Users\Noah\Documents\Dev\code_club\CanvasLine\obj\Debug\netcoreapp3.1\CanvasLine.csproj.AssemblyReference.cache
+C:\Users\Noah\Documents\Dev\code_club\CanvasLine\obj\Debug\netcoreapp3.1\CanvasLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noah\Documents\Dev\code_club\CanvasLine\obj\Debug\netcoreapp3.1\CanvasLine.AssemblyInfoInputs.cache
+C:\Users\Noah\Documents\Dev\code_club\CanvasLine\obj\Debug\netcoreapp3.1\CanvasLine.AssemblyInfo.cs
+C:\Users\Noah\Documents\Dev\code_club\CanvasLine\obj\Debug\netcoreapp3.1\CanvasLine.csproj.CoreCompileInputs.cache
+C:\Users\Noah\Documents\Dev\code_club\CanvasLine\obj\Debug\netcoreapp3.1\CanvasLine.dll
+C:\Users\Noah\Documents\Dev\code_club\CanvasLine\obj\Debug\netcoreapp3.1\CanvasLine.pdb
+C:\Users\Noah\Documents\Dev\code_club\CanvasLine\obj\Debug\netcoreapp3.1\CanvasLine.genruntimeconfig.cache

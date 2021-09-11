@@ -1,0 +1,14 @@
+C:\Users\Noah\Documents\Dev\code_club\SpeedCubing\bin\Debug\netcoreapp3.1\SpeedCubing.exe
+C:\Users\Noah\Documents\Dev\code_club\SpeedCubing\bin\Debug\netcoreapp3.1\SpeedCubing.deps.json
+C:\Users\Noah\Documents\Dev\code_club\SpeedCubing\bin\Debug\netcoreapp3.1\SpeedCubing.runtimeconfig.json
+C:\Users\Noah\Documents\Dev\code_club\SpeedCubing\bin\Debug\netcoreapp3.1\SpeedCubing.runtimeconfig.dev.json
+C:\Users\Noah\Documents\Dev\code_club\SpeedCubing\bin\Debug\netcoreapp3.1\SpeedCubing.dll
+C:\Users\Noah\Documents\Dev\code_club\SpeedCubing\bin\Debug\netcoreapp3.1\SpeedCubing.pdb
+C:\Users\Noah\Documents\Dev\code_club\SpeedCubing\obj\Debug\netcoreapp3.1\SpeedCubing.csproj.AssemblyReference.cache
+C:\Users\Noah\Documents\Dev\code_club\SpeedCubing\obj\Debug\netcoreapp3.1\SpeedCubing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noah\Documents\Dev\code_club\SpeedCubing\obj\Debug\netcoreapp3.1\SpeedCubing.AssemblyInfoInputs.cache
+C:\Users\Noah\Documents\Dev\code_club\SpeedCubing\obj\Debug\netcoreapp3.1\SpeedCubing.AssemblyInfo.cs
+C:\Users\Noah\Documents\Dev\code_club\SpeedCubing\obj\Debug\netcoreapp3.1\SpeedCubing.csproj.CoreCompileInputs.cache
+C:\Users\Noah\Documents\Dev\code_club\SpeedCubing\obj\Debug\netcoreapp3.1\SpeedCubing.dll
+C:\Users\Noah\Documents\Dev\code_club\SpeedCubing\obj\Debug\netcoreapp3.1\SpeedCubing.pdb
+C:\Users\Noah\Documents\Dev\code_club\SpeedCubing\obj\Debug\netcoreapp3.1\SpeedCubing.genruntimeconfig.cache
