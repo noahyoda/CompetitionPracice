@@ -8,21 +8,21 @@ namespace SpeedCubing
         static void Main(string[] args)
         {
             string[] scoresTemp = Console.ReadLine().Split(" ");
-            decimal toBeat = Convert.ToDecimal(Console.ReadLine());
-            decimal[] scores = Array.ConvertAll(scoresTemp, s => Convert.ToDecimal(s));
+            double toBeat = Convert.ToDouble(Console.ReadLine());
+            double[] scores = Array.ConvertAll(scoresTemp, s => Convert.ToDouble(s));
 
             Array.Sort(scores);
 
-            decimal upperAvg = (scores[1] + scores[2] + scores[3]) / 3;
-            decimal lowerAvg = (scores[0] + scores[1] + scores[2]) / 3;
+            double upperAvg = (scores[1] + scores[2] + scores[3]) / 3;
+            double lowerAvg = (scores[0] + scores[1] + scores[2]) / 3;
 
-            if (Math.Round(upperAvg, 2, MidpointRounding.AwayFromZero) <= toBeat)
+            if (upperAvg < toBeat)
                 Console.WriteLine("infinite");
-            else if (Math.Round(lowerAvg, 2, MidpointRounding.AwayFromZero) > toBeat)
+            else if (lowerAvg > toBeat)
                 Console.WriteLine("impossible");
             else
             {
-                Console.WriteLine(Math.Round(((toBeat * 3) - scores[1] - scores[2]), 2, MidpointRounding.AwayFromZero));
+                Console.WriteLine(Math.Round(((toBeat * 3) - scores[1] - scores[2]), 2));
             }
         }
     }
