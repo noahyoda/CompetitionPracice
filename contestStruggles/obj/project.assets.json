@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Noah\\Documents\\Dev\\code_club\\contestStruggles\\contestStruggles.csproj",
+      "projectUniqueName": "C:\\Users\\Noah\\Source\\Repos\\CompetitionPracice\\contestStruggles\\contestStruggles.csproj",
       "projectName": "contestStruggles",
-      "projectPath": "C:\\Users\\Noah\\Documents\\Dev\\code_club\\contestStruggles\\contestStruggles.csproj",
+      "projectPath": "C:\\Users\\Noah\\Source\\Repos\\CompetitionPracice\\contestStruggles\\contestStruggles.csproj",
       "packagesPath": "C:\\Users\\Noah\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Noah\\Documents\\Dev\\code_club\\contestStruggles\\obj\\",
+      "outputPath": "C:\\Users\\Noah\\Source\\Repos\\CompetitionPracice\\contestStruggles\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Noah\\AppData\\Roaming\\NuGet\\NuGet.Config",

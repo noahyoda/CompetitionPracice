@@ -1,0 +1,14 @@
+C:\Users\Noah\Source\Repos\CompetitionPracice\SubarrayDivision\bin\Debug\netcoreapp3.1\SubarrayDivision.exe
+C:\Users\Noah\Source\Repos\CompetitionPracice\SubarrayDivision\bin\Debug\netcoreapp3.1\SubarrayDivision.deps.json
+C:\Users\Noah\Source\Repos\CompetitionPracice\SubarrayDivision\bin\Debug\netcoreapp3.1\SubarrayDivision.runtimeconfig.json
+C:\Users\Noah\Source\Repos\CompetitionPracice\SubarrayDivision\bin\Debug\netcoreapp3.1\SubarrayDivision.runtimeconfig.dev.json
+C:\Users\Noah\Source\Repos\CompetitionPracice\SubarrayDivision\bin\Debug\netcoreapp3.1\SubarrayDivision.dll
+C:\Users\Noah\Source\Repos\CompetitionPracice\SubarrayDivision\bin\Debug\netcoreapp3.1\SubarrayDivision.pdb
+C:\Users\Noah\Source\Repos\CompetitionPracice\SubarrayDivision\obj\Debug\netcoreapp3.1\SubarrayDivision.csproj.AssemblyReference.cache
+C:\Users\Noah\Source\Repos\CompetitionPracice\SubarrayDivision\obj\Debug\netcoreapp3.1\SubarrayDivision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noah\Source\Repos\CompetitionPracice\SubarrayDivision\obj\Debug\netcoreapp3.1\SubarrayDivision.AssemblyInfoInputs.cache
+C:\Users\Noah\Source\Repos\CompetitionPracice\SubarrayDivision\obj\Debug\netcoreapp3.1\SubarrayDivision.AssemblyInfo.cs
+C:\Users\Noah\Source\Repos\CompetitionPracice\SubarrayDivision\obj\Debug\netcoreapp3.1\SubarrayDivision.csproj.CoreCompileInputs.cache
+C:\Users\Noah\Source\Repos\CompetitionPracice\SubarrayDivision\obj\Debug\netcoreapp3.1\SubarrayDivision.dll
+C:\Users\Noah\Source\Repos\CompetitionPracice\SubarrayDivision\obj\Debug\netcoreapp3.1\SubarrayDivision.pdb
+C:\Users\Noah\Source\Repos\CompetitionPracice\SubarrayDivision\obj\Debug\netcoreapp3.1\SubarrayDivision.genruntimeconfig.cache

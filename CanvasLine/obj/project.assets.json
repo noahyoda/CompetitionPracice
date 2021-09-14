@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Noah\\Documents\\Dev\\code_club\\CanvasLine\\CanvasLine.csproj",
+      "projectUniqueName": "C:\\Users\\Noah\\Source\\Repos\\CompetitionPracice\\CanvasLine\\CanvasLine.csproj",
       "projectName": "CanvasLine",
-      "projectPath": "C:\\Users\\Noah\\Documents\\Dev\\code_club\\CanvasLine\\CanvasLine.csproj",
+      "projectPath": "C:\\Users\\Noah\\Source\\Repos\\CompetitionPracice\\CanvasLine\\CanvasLine.csproj",
       "packagesPath": "C:\\Users\\Noah\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Noah\\Documents\\Dev\\code_club\\CanvasLine\\obj\\",
+      "outputPath": "C:\\Users\\Noah\\Source\\Repos\\CompetitionPracice\\CanvasLine\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Noah\\AppData\\Roaming\\NuGet\\NuGet.Config",

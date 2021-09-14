@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Noah\\Documents\\Dev\\code_club\\GnollTrouble\\GnollTrouble.csproj": {}
+    "C:\\Users\\Noah\\Source\\Repos\\CompetitionPracice\\GnollTrouble\\GnollTrouble.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Noah\\Documents\\Dev\\code_club\\GnollTrouble\\GnollTrouble.csproj": {
+    "C:\\Users\\Noah\\Source\\Repos\\CompetitionPracice\\GnollTrouble\\GnollTrouble.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Noah\\Documents\\Dev\\code_club\\GnollTrouble\\GnollTrouble.csproj",
+        "projectUniqueName": "C:\\Users\\Noah\\Source\\Repos\\CompetitionPracice\\GnollTrouble\\GnollTrouble.csproj",
         "projectName": "GnollTrouble",
-        "projectPath": "C:\\Users\\Noah\\Documents\\Dev\\code_club\\GnollTrouble\\GnollTrouble.csproj",
+        "projectPath": "C:\\Users\\Noah\\Source\\Repos\\CompetitionPracice\\GnollTrouble\\GnollTrouble.csproj",
         "packagesPath": "C:\\Users\\Noah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Noah\\Documents\\Dev\\code_club\\GnollTrouble\\obj\\",
+        "outputPath": "C:\\Users\\Noah\\Source\\Repos\\CompetitionPracice\\GnollTrouble\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Noah\\AppData\\Roaming\\NuGet\\NuGet.Config",
