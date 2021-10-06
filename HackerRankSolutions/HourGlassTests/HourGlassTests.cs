@@ -1,13 +1,13 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Collections.Generic;
 
-namespace HourGlassTests
+namespace Hourglass
 {
     [TestClass]
     public class HourGlassTests
     {
         [TestMethod]
-        public void TestMethod1()
+        public void TestSimpleMatrix()
         {
             List<List<int>> matrix = new List<List<int>>();
             //col
@@ -17,7 +17,7 @@ namespace HourGlassTests
                 //row
                 for (int ii = 0; ii <= 6; ii++)
                 {
-                    matrix[ii].Add(0);
+                    matrix[i].Add(0);
                 }
             }
             //first col
@@ -31,7 +31,7 @@ namespace HourGlassTests
             matrix[2][0] = 1;
             matrix[2][2] = 1;
 
-            
+            Assert.AreEqual(7, Hourglass.HourglassSum(matrix));
 
         }
     }
