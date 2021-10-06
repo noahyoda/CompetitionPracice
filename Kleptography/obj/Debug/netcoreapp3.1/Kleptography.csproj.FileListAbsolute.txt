@@ -1,0 +1,14 @@
+C:\Users\Noah\Source\Repos\CompetitionPracice\Kleptography\bin\Debug\netcoreapp3.1\Kleptography.exe
+C:\Users\Noah\Source\Repos\CompetitionPracice\Kleptography\bin\Debug\netcoreapp3.1\Kleptography.deps.json
+C:\Users\Noah\Source\Repos\CompetitionPracice\Kleptography\bin\Debug\netcoreapp3.1\Kleptography.runtimeconfig.json
+C:\Users\Noah\Source\Repos\CompetitionPracice\Kleptography\bin\Debug\netcoreapp3.1\Kleptography.runtimeconfig.dev.json
+C:\Users\Noah\Source\Repos\CompetitionPracice\Kleptography\bin\Debug\netcoreapp3.1\Kleptography.dll
+C:\Users\Noah\Source\Repos\CompetitionPracice\Kleptography\bin\Debug\netcoreapp3.1\Kleptography.pdb
+C:\Users\Noah\Source\Repos\CompetitionPracice\Kleptography\obj\Debug\netcoreapp3.1\Kleptography.csproj.AssemblyReference.cache
+C:\Users\Noah\Source\Repos\CompetitionPracice\Kleptography\obj\Debug\netcoreapp3.1\Kleptography.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noah\Source\Repos\CompetitionPracice\Kleptography\obj\Debug\netcoreapp3.1\Kleptography.AssemblyInfoInputs.cache
+C:\Users\Noah\Source\Repos\CompetitionPracice\Kleptography\obj\Debug\netcoreapp3.1\Kleptography.AssemblyInfo.cs
+C:\Users\Noah\Source\Repos\CompetitionPracice\Kleptography\obj\Debug\netcoreapp3.1\Kleptography.csproj.CoreCompileInputs.cache
+C:\Users\Noah\Source\Repos\CompetitionPracice\Kleptography\obj\Debug\netcoreapp3.1\Kleptography.dll
+C:\Users\Noah\Source\Repos\CompetitionPracice\Kleptography\obj\Debug\netcoreapp3.1\Kleptography.pdb
+C:\Users\Noah\Source\Repos\CompetitionPracice\Kleptography\obj\Debug\netcoreapp3.1\Kleptography.genruntimeconfig.cache
