@@ -61,6 +61,10 @@ namespace Hourglass
                     s += y;
                 }
             }
+            //subtract mids
+            s -= g[0][1];
+            s -= g[2][1];
+
             sum = s;
         }
 
