@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 /// <summary>
 /// challenge link:
@@ -11,68 +12,39 @@ namespace Hourglass
     {
         public static int HourglassSum(List<List<int>> arr)
         {
-            int maxSum = 0;
-            int negMax = 0;
-            //iterate over columns
-            for(int i = 0; i < arr.Count - 3; i++)
+            List<List<int>> x1 = new List<List<int>>();
+            x1.Add(arr[0].GetRange(0, 3));
+            x1.Add(arr[1].GetRange(0, 3));
+            x1.Add(arr[2].GetRange(0, 3));
+
+            int sum = smallSum(x1);
+
+            for (int i = 0; i < 4; i++)
             {
-                List<int> x = arr[i];
-                //iterate over positions in x column
-                for(int ii = 0; ii < x.Count - 3; ii++)
+                for (int j = 0; j < 4; j++)
                 {
-                    List<List<int>> square = new List<List<int>>();
-                    square.Add(arr[i].GetRange(ii, 3));
-                    square.Add(arr[i + 1].GetRange(ii, 3));
-                    square.Add(arr[i + 2].GetRange(ii, 3));
-
-                    Glass curr = new Glass(square);
-
-                    //if current glass sum is the new max
-                    if (curr.sum > maxSum)
-                        maxSum = curr.sum;
-                    //if new max is a negative
-                    if (curr.sum < 0)
-                        //if negMax has changed check if curr is next max, else if negMax has not changed yet change it
-                        if (negMax != 0)
-                            negMax = curr.sum > negMax ? curr.sum : negMax;
-                        else
-                            negMax = curr.sum;
+                    List<List<int>> tempArr = new List<List<int>>();
+                    tempArr.Add(arr[i].GetRange(j, 3));
+                    tempArr.Add(arr[i + 1].GetRange(j, 3));
+                    tempArr.Add(arr[i + 2].GetRange(j, 3));
+                    int currResult = smallSum(tempArr);
+                    if (currResult > sum)
+                        sum = currResult;
                 }
             }
-            if (maxSum == 0)
-                return negMax;
-            else
-                return maxSum;
+            return sum;
         }
 
-    }
-
-    class Glass
-    {
-        private int currSum;
-
-        public Glass(List<List<int>> g)
+        private static int smallSum(List<List<int>> arr)
         {
             int s = 0;
-            foreach (List<int> x in g)
+            foreach (List<int> x in arr)
             {
-                foreach (int y in x)
-                {
-                    s += y;
-                }
+                s += x.Sum();
             }
-            //subtract mids
-            s -= g[0][1];
-            s -= g[2][1];
-
-            sum = s;
+            s -= arr[1][0];
+            s -= arr[1][2];
+            return s;
         }
-
-        public int sum
-        {
-            get { return this.currSum; }
-            protected set { this.currSum = value; }
-        }
-
     }
 }
