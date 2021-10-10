@@ -20,5 +20,20 @@ namespace ShiftTest
 
             CollectionAssert.AreEqual(expected, result);
         }
+
+        [TestMethod]
+        public void TestFullRotation()
+        {
+            int[] a = { 1, 2, 3, 4 };
+            List<int> test = a.ToList();
+
+            List<int> result = ArrayShift.ArrayShift.ShiftLeft(test, 4);
+
+            int[] e = { 1, 2, 3, 4 };
+            List<int> expected = e.ToList();
+
+            CollectionAssert.AreEqual(expected, result);
+        }
+
     }
 }
